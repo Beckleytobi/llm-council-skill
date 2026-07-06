@@ -1,0 +1,24 @@
+{
+  "name": "llm-council-skill",
+  "owner": {
+    "name": "Beckleytobi",
+    "url": "https://github.com/Beckleytobi"
+  },
+  "metadata": {
+    "description": "Marketplace hosting the llm-council plugin (fork of tenfoldmarc/llm-council-skill for cross-device install)."
+  },
+  "plugins": [
+    {
+      "name": "llm-council",
+      "description": "Run any question, idea, or decision through a council of 5 AI advisors who independently analyze it, peer-review each other anonymously, and synthesize a final verdict. Based on Karpathy's LLM Council methodology.",
+      "version": "1.0.0",
+      "author": {
+        "name": "tenfoldmarc",
+        "url": "https://github.com/tenfoldmarc"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/Beckleytobi/llm-council-skill"
+    }
+  ]
+}
